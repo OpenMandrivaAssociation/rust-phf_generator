@@ -5,8 +5,8 @@
 %global crate phf_generator
 
 Name:           rust-%{crate}
-Version:        0.7.24
-Release:        6%{?dist}
+Version:        0.14.0
+Release:        1%{?dist}
 Summary:        PHF generation logic
 
 # Upstream license specification: MIT
